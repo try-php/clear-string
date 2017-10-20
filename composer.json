@@ -1,0 +1,22 @@
+{
+    "name": "try/clear-string",
+    "description": "string utility package for clearing special characters",
+    "type": "library",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Willi Eßer",
+            "email": "willi.esser@troublete.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+    	"files": [
+    		"./module.php"
+    	]
+    },
+    "scripts": {
+    	"test": "@php ./test.php"
+    },
+    "require": {}
+}
