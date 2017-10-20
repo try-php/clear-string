@@ -1,6 +1,9 @@
 # clear-string
 > string utility package for clearing special characters
 
+[![Build Status](https://travis-ci.org/try-php/clear-string.svg?branch=master)](https://travis-ci.org/try-php/clear-string)
+
+
 ## Install
 
 ```bash
